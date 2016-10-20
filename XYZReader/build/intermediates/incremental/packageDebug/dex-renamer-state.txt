@@ -1,0 +1,7 @@
+#Wed Oct 19 19:09:08 PDT 2016
+base.0=/Users/lukekim/Documents/workspace/android/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9622e03d4423a30ad5d8a40c4cf6c6e8a3b0540d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/lukekim/Documents/workspace/android/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_75671a793f5a1906898ed5075bc167ee281b9aba/classes.dex
+base.1=/Users/lukekim/Documents/workspace/android/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_75671a793f5a1906898ed5075bc167ee281b9aba
+file.0=/Users/lukekim/Documents/workspace/android/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9622e03d4423a30ad5d8a40c4cf6c6e8a3b0540d/classes.dex
