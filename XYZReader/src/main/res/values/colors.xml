@@ -23,7 +23,6 @@
     <color name="theme_accent">#FF0000</color>
 
     <color name="theme_content_header">#333</color>
-    <color name="article_title">#000000</color>
-    <color name="ltgray">#ffe0e0e0</color>
+    <color name="item_title">#000000</color>
     <color name="window_background">#FFF5F5F5</color>
 </resources>
