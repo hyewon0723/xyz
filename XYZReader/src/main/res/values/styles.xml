@@ -31,12 +31,12 @@
     </style>
 
     <style name="Theme.Bacon.List.CardView" parent="@style/Theme.AppCompat.Light.NoActionBar">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginLeft">@dimen/cardview_margin</item>
         <item name="android:layout_marginRight">@dimen/cardview_margin</item>
         <item name="android:layout_marginTop">@dimen/cardview_margin</item>
         <item name="android:layout_marginBottom">@dimen/cardview_margin</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
         <item name="android:clickable">true</item>
         <item name="android:focusable">true</item>
         <item name="android:foreground">?selectableItemBackground</item>

@@ -1,4 +1,4 @@
-#Mon Oct 24 18:39:54 PDT 2016
+#Wed Oct 26 17:15:42 PDT 2016
 base.0=/Users/lukekim/Documents/workspace/android/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9622e03d4423a30ad5d8a40c4cf6c6e8a3b0540d
 renamed.1=classes2.dex
 renamed.0=classes.dex
